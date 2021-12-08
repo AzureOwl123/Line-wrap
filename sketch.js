@@ -1,24 +1,10 @@
-/*
-function setup(){
-  window.open(500,500);
-
-}
-
-function draw(){
-  fill(0);
-  ellipse(40,40,40,40);
-
-}
-*/
-
-
 
 let star;
 
 
 function setup(){
   window.open(500,500);
-  star = new Starship(50, 150);
+  star = new Starship(50, 50);
   
   
 }
@@ -36,11 +22,12 @@ function Starship(width, height){
   
   
   this.display = function(){
-    fill(50);
-    ellipse(this.w, this.h, 50, 50);
+    fill(0);
+    ellipse(this.w, this.h, 25, 50);
     
     
     
   };
   
   
+}
