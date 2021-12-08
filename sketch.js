@@ -37,7 +37,7 @@ function Starship(width, height){
   
   this.display = function(){
     fill(50);
-    ellipse(this.w, this.h);
+    ellipse(this.w, this.h, 50, 50);
     
     
     
