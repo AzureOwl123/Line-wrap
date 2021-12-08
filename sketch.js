@@ -18,7 +18,7 @@ let star;
 
 function setup(){
   window.open(500,500);
-  star = new Starship(50, 50);
+  star = new Starship(100, 150);
   
   
 }
