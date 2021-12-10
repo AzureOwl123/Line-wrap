@@ -1,11 +1,7 @@
 
 
 
-uneven-highfalutin-allium
 
-Show
-sketch.js
-success: Opened in another tab or window
 //Name: Nicola Paparella
 //Email: np1216@bard.edu
 //Date: 9 December 2021
