@@ -1,5 +1,5 @@
 //Name: Nicola Paparella
-//Email: np1216@bard.edu
+//Email: 
 //Date: 9 December 2021
 //Assignment Description: I had to create a small javascript program using the support of libraries
 //Collaboration Statement: I collaborated with the CMSC tutors and looked up help online (the construction of objects in Javascript)
