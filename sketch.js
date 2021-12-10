@@ -8,9 +8,7 @@
 
 let star;
 let invader;
-let invBullets;
 let bullet;
-let event;
 
 
 function setup() {
